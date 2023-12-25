@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
+
     <item
         android:width="42dp"
         android:height="42dp"
@@ -35,6 +36,7 @@
         </rotate>
     </item>
 
+
     <item
         android:width="1000dp"
         android:height="42dp"
@@ -49,6 +51,7 @@
                 android:startColor="#00000000" />
         </shape>
     </item>
+
 
     <item
         android:width="1000dp"
